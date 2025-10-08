@@ -1,0 +1,33 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compilação TypeScript
+dist/
+build/
+*.tsbuildinfo
+package-lock.json
+
+# Ambiente
+.env
+
+# Logs
+logs/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Cache
+.cache/
+.tmp/
+
+# Editor
+.vscode/
+.idea/
